@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 my name is ganesh K
 
 im studying cse
@@ -7,3 +8,6 @@ im studying cse
 
    hfhfghfg
    hfghfgh
+=======
+my name is ganesh K
+>>>>>>> c0b62ca (adde initial)
